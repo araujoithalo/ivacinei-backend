@@ -1,5 +1,11 @@
 //Ignore files on this page
 **/gitignore
 
+//Ignore node_modules
+**/node_modules
+
+//Ignoring prisma setup
+**/prisma
+
 //Ignoreing .env
 .env
