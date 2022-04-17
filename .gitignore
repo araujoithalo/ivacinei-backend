@@ -1,2 +1,5 @@
 //Ignore files on this page
 **/gitignore
+
+//Ignoreing .env
+.env

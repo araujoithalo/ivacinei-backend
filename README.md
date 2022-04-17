@@ -8,4 +8,4 @@ Pull requests are welcome! Feel free to contribute whenever and whatever you wan
 
 ## License
 
-[MIT](https://opensource.org/licenses/MIT)
+[MIT](https://choosealicense.com/licenses/mit/)
