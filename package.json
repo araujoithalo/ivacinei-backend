@@ -1,0 +1,8 @@
+{
+  "name": "ivacinei-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/araujoithalo/ivacinei-backend.git",
+  "author": "Ithalo Araujo <araujoithalo@gmail.com>",
+  "license": "MIT"
+}
