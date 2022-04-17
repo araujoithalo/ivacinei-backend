@@ -1,6 +1,6 @@
 # Portal iVacinei
 
-Scheduling/schedule consult portal to COVID-19 vaccination.
+Scheduling/schedule consultation portal to COVID-19 vaccination.
 
 ## Contributing
 
